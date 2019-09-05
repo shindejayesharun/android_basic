@@ -1,4 +1,4 @@
-package com.shindejayesharun.imagenetworkload;
+package com.shindejayesharun.image;
 
 import android.content.Context;
 

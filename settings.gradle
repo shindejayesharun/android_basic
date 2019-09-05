@@ -1,1 +1,1 @@
-include ':app', ':imagenetworkload'
+include ':app', ':image'

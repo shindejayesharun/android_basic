@@ -1,4 +1,4 @@
-package com.shindejayesharun.imagenetworkload;
+package com.shindejayesharun.image;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -38,7 +38,6 @@ public class MainActivity extends AppCompatActivity {
         } catch (MalformedURLException e) {
            url=null;
         }
-
         try {
             URLConnection conn=url.openConnection();
             conn.connect();
